@@ -196,3 +196,4 @@ cf-release-version,diego-release-version,cflinuxfs2-release-version,garden-runc-
 284,1.32.2,1.181.0,1.10.0,,03bbb0e0d0127c1893db8bcb42ec08caf4d4b1cf,,,,v1.9.0
 285,1.32.2,1.181.0,1.10.0,c003af807bc3e4b3cc922afc890a0c1afab5f490,03bbb0e0d0127c1893db8bcb42ec08caf4d4b1cf,,,,
 285,1.33.0,1.181.0,1.11.0,4de7e975e04c71490124e32846317bd06f0d6b1f,03bbb0e0d0127c1893db8bcb42ec08caf4d4b1cf,,,,
+286,1.34.0,1.187.0,1.11.1,99b5fdcbc35c678f1e1bec72797e34c5d683d30b,ddd4691074425c6f7cf42e79f1e7dc2967ad660e,,,,
