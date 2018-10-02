@@ -6,4 +6,4 @@ of versions used during a successful transition from
 
 - The latest and final version of `cf-release` is v287.
 - The latest version of `cf-deployment` that's support is v1.17.0. 
-- Once you transition to that early release of cf-deployment, you can follow release notes to upgrade to the latest version of cf-deployment.
+- Once you transition to that early release of `cf-deployment`, you can follow release notes to upgrade to the latest version of cf-deployment.
